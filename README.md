@@ -13,7 +13,7 @@
 
 ##  Download
 
-### **[Ankiweb](https://ankiweb.net/shared/info/367877479**) - [Google Drive](https://drive.google.com/file/d/1dVl-IAjqkV1wrwWtc2UdZ7jpZtOeUA3B/view?usp=drive_link)**   
+### **[Ankiweb](https://ankiweb.net/shared/info/367877479) - [Google Drive](https://drive.google.com/file/d/1dVl-IAjqkV1wrwWtc2UdZ7jpZtOeUA3B/view?usp=drive_link)**   
 
 
 The deck on AnkiWeb can be temporarily unavailable. After each update, it takes up to 24 hours for the deck to be available again. 
